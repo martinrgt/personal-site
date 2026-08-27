@@ -1,0 +1,88 @@
+baseURL: https://example.org/
+locale: en-us
+title: Martin Ringot
+theme: ["PaperMod"]
+
+params:
+  defaultTheme: auto
+  ShowShareButtons: false
+  ShowReadingTime: true
+  ShowBreadCrumbs: true
+  ShowPostNavLinks: true
+  profileMode:
+    enabled: true
+    title: "<Title>" # optional default will be site title
+    imageUrl: "images/avatar_chouette_resized.png" # optional
+    imageWidth: 120 # custom size
+    imageHeight: 120 # custom size
+
+  homeInfoParams:
+    Title: Hi there 👋
+    Content: Here is my site, what will you do
+
+  socialIcons:
+    - name: "mastodon"
+      url: "https://mastodon.gamedev.place/@MartinRgt"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/martin-ringot/"
+    - name: "itchio"
+      url: "https://martinrgt.itch.io/"
+
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    # limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
+    keys: ["title", "permalink", "summary", "content"]
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+defaultContentLanguage: en
+languages:
+  en:
+    contentDir: content/en
+    label: English
+    weight: 1
+    params:
+      profileMode:
+        subtitle: "Your favorite narrative designer"
+        imageTitle: "Not my real face" # optional
+        buttons:
+          - name: About
+            url: "/pages/about"
+          - name: Posts
+            url: "/posts/"
+          - name: Archive
+            url: "/archive"
+          - name: Github
+            url: "https://github.com/"
+    menu:
+      main:
+        - identifier: about
+          name: About
+          url: /pages/about
+          weight: 10
+  fr:
+    contentDir: content/fr
+    label: Français
+    weight: 2
+    params:
+      profileMode:
+        subtitle: "Votre narrative designer préféré"
+        imageTitle: "Pas mon vrai visage" # optional
+        buttons:
+          - name: "À propos"
+            url: "/fr/pages/about"
+          - name: Messages
+            url: "/fr/posts/"
+          - name: Archives
+            url: "/archive"
+          - name: Github
+            url: "https://github.com/"

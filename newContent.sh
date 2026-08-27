@@ -1,6 +1,6 @@
 #!/bin/bash
 echo "Select a type of content."
-options=( $(ls -1 ./content/en/) )
+options=( $(ls -1 ./content/) )
 PS3="Content type: "
 select opt in "${options[@]}" "Abort" ; do
 	if (( REPLY == 1 + ${#options[@]} )) ; then

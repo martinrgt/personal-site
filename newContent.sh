@@ -1,6 +1,6 @@
 #!/bin/bash
 echo "Select a type of content."
-options=( $(ls -1 ./content/) )
+options=( $(ls -1 --ignore=*.md ./content/) )
 PS3="Content type: "
 select opt in "${options[@]}" "Abort" ; do
 	if (( REPLY == 1 + ${#options[@]} )) ; then
@@ -15,15 +15,23 @@ select opt in "${options[@]}" "Abort" ; do
 	fi
 done
 
-echo "Generating new content for $PAGETYPE. Please enter a title."
-read -p "New content title for $PAGETYPE: " TITLE
+echo "Generating new content for $PAGETYPE."
+TITLE=
+while [[ $TITLE = "" ]]; do
+	echo "Please enter a title."
+	read -p "New content title for $PAGETYPE: " TITLE
+done
 
 # Formatage du titre
 TITLEF1="${TITLE,,}"	# Permet de mettre le titre en minuscule
 TITLEF2=$(echo "$TITLEF1" | tr ' ' '-')	# Permet de remplacer les espaces par des traits d'union
 specialChars="'?!.,"
 TITLEF3=$(echo "$TITLEF2" | sed "s/[$specialChars]//g")
-TITLEF4="$(date -I)-$TITLEF3"
+if ( $PAGETYPE == "posts" ) ; then
+	TITLEF4="$(date -I)-$TITLEF3"
+else
+	TITLEF4="$TITLEF3"
+fi
 
 echo "Generating $TITLEF4 in English and French."
 hugo new content content/$PAGETYPE/$TITLEF4/index.en.md

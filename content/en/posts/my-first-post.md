@@ -4,6 +4,9 @@ draft: true
 title: 'My First Post'
 summary: 'Where I introduce this site.'
 description: "Welcome to this site."
+tags: 
+  - "godzilla"
+  - "aspirin"
 showtoc: true
 towopen: true
 cover:

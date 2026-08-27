@@ -18,7 +18,7 @@ params:
 
   homeInfoParams:
     Title: Hi there 👋
-    Content: Here is my site, what will you do
+    Content: Welcome to my site.
 
   socialIcons:
     - name: "mastodon"
@@ -69,6 +69,15 @@ languages:
           name: About
           url: /pages/about
           weight: 10
+        - identifier: projects
+          name: Projects
+          url: /games/
+          weight: 20
+        - identifier: posts
+          name: Blog
+          url: /posts/
+          weight: 30
+
   fr:
     contentDir: content/fr
     label: Français
@@ -86,3 +95,17 @@ languages:
             url: "/archive"
           - name: Github
             url: "https://github.com/"
+    menu:
+      main:
+        - identifier: about
+          name: À propos
+          url: /fr/pages/about
+          weight: 10
+        - identifier: projects
+          name: Projets
+          url: /fr/games/
+          weight: 20
+        - identifier: posts
+          name: Blog
+          url: /fr/posts/
+          weight: 30

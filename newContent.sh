@@ -26,5 +26,5 @@ TITLEF3=$(echo "$TITLEF2" | sed "s/[$specialChars]//g")
 TITLEF4="$(date -I)-$TITLEF3"
 
 echo "Generating $TITLEF4 in English and French."
-hugo new content content/en/$PAGETYPE/$TITLEF4/index.md
-hugo new content content/fr/$PAGETYPE/$TITLEF4/index.md
+hugo new content content/$PAGETYPE/$TITLEF4/index.en.md
+hugo new content content/$PAGETYPE/$TITLEF4/index.fr.md

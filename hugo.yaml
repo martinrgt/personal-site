@@ -47,7 +47,6 @@ outputs:
 defaultContentLanguage: en
 languages:
   en:
-#    contentDir: content/en
     label: English
     weight: 1
     params:
@@ -79,7 +78,6 @@ languages:
           weight: 30
 
   fr:
-#    contentDir: content/fr
     label: Français
     weight: 2
     params:

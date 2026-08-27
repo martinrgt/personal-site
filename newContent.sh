@@ -23,8 +23,8 @@ TITLEF1="${TITLE,,}"	# Permet de mettre le titre en minuscule
 TITLEF2=$(echo "$TITLEF1" | tr ' ' '-')	# Permet de remplacer les espaces par des traits d'union
 specialChars="'?!.,"
 TITLEF3=$(echo "$TITLEF2" | sed "s/[$specialChars]//g")
-TITLEF4="$(date -I)-$TITLEF3.md"
+TITLEF4="$(date -I)-$TITLEF3"
 
 echo "Generating $TITLEF4 in English and French."
-hugo new content content/en/$PAGETYPE/$TITLEF4
-hugo new content content/fr/$PAGETYPE/$TITLEF4
+hugo new content content/en/$PAGETYPE/$TITLEF4/index.md
+hugo new content content/fr/$PAGETYPE/$TITLEF4/index.md

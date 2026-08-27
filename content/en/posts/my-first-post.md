@@ -2,7 +2,8 @@
 date: '2026-08-21T16:39:09+02:00'
 draft: true
 title: 'My First Post'
-description: 'Where I introduce this site.'
+summary: 'Where I introduce this site.'
+description: "Welcome to this site."
 showtoc: true
 towopen: true
 cover:

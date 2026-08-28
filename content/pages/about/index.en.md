@@ -3,6 +3,11 @@ date: '2026-08-21T18:28:12+02:00'
 draft: true
 title: 'About'
 hidemeta: false
+cover:
+  image: "cover.jpeg"
+  alt: "Me giving a talk at a Lyon Game Dev meetup in 2023."
+  caption: "Photo credits: [Lea Calame](https://www.linkedin.com/in/lea-calame/)"
+  relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
 Hello there,
 

@@ -3,6 +3,11 @@ date: '2026-08-21T18:28:12+02:00'
 draft: true
 title: 'À propos'
 hidemeta: false
+cover:
+  image: "cover.jpeg"
+  alt: "Présentation lors d'un meetup de Lyon Game Dev en 2023."
+  caption: "Crédit photo: [Lea Calame](https://www.linkedin.com/in/lea-calame/)"
+  relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
 Bonjour chez vous,
 

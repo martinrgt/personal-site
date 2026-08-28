@@ -51,7 +51,7 @@ languages:
     weight: 1
     params:
       profileMode:
-        subtitle: "Your favorite narrative designer"
+        subtitle: "🎮 Your favorite narrative designer {{< line_break >}} 🎓 PhD Italo Calvino × video games {{< line_break >}} ❤️ Folk enthusiast, rock climber, nap lover"
         imageTitle: "Not my real face" # optional
         buttons:
           - name: About

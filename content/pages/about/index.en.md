@@ -6,9 +6,9 @@ hidemeta: false
 ---
 Hello there,
 
-My name is Martin. I am a game and narrative designer, but also a writer and a literature and game studies researcher. I have been writing novels, short stories, papers and games for a decades, constantly going back and forth between games and books.
+My name is Martin. I am a game and narrative designer, but also a writer and a literature and game studies researcher. I have been writing novels, short stories, papers and games for a decade, constantly going back and forth between games and books.
 
-I'm also a folk music enthusiast, a Nintendo player, a rock climber and a nap lover. I love tinkering and learning new things, like coding stuff or working with wood.
+I'm also a folk music enthusiast, a Nintendo player, a rock climber and a nap lover. I love tinkering and learning new things, such as coding stuff or working with wood.
 
 I wrote my PhD dissertation on the Italian writer Italo Calvino, whose work I approached from a game studies perspective. I wanted to understand how to bring literature and video games together.
 

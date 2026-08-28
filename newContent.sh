@@ -27,7 +27,7 @@ TITLEF1="${TITLE,,}"	# Permet de mettre le titre en minuscule
 TITLEF2=$(echo "$TITLEF1" | tr ' ' '-')	# Permet de remplacer les espaces par des traits d'union
 specialChars="'?!.,"
 TITLEF3=$(echo "$TITLEF2" | sed "s/[$specialChars]//g")
-if ( $PAGETYPE == "posts" ) ; then
+if [[ $PAGETYPE == "posts" ]] ; then
 	TITLEF4="$(date -I)-$TITLEF3"
 else
 	TITLEF4="$TITLEF3"

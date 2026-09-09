@@ -11,7 +11,7 @@ cover:
 #  relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
 ### Chose your own adventure
-Tales up is a multiplayer role playing game where the players are invited into various adventures. Think of them as chose your own adventure books, but with smart devices and friends.
+*Tales Up* is a multiplayer role playing game where the players are invited into various adventures. Think of them as chose your own adventure books, but with smart devices and friends.
 
 {{< youtube ApTra37WhPY >}}
 

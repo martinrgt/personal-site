@@ -9,6 +9,10 @@ cover:
     alt: "Tales Up key art from the steam page"
     caption: "Key art from the steam page"
 #  relative: true # To use relative path for cover image, used in hugo Page-bundles
+cascade:
+    tags:
+    - Tales Up
+    - Writing
 ---
 ### Chose your own adventure
 *Tales Up* is a multiplayer role playing game where the players are invited into various adventures. Think of them as chose your own adventure books, but with smart devices and friends.

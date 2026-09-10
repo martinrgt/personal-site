@@ -9,6 +9,10 @@ cover:
     alt: "Key art de Tales Up tiré de la page steam"
     caption: "Key art de Tales Up tiré de la page steam"
 #  relative: true # To use relative path for cover image, used in hugo Page-bundles
+cascade:
+    tags:
+    - Tales Up
+    - Écriture
 ---
 ### Aventure dont vous êtes les héros
 *Tales Up* est un jeu de rôle multijoueur où les joueur·euse·s sont invité·e·s à vivre diverses aventures ensemble. Il faut imaginer ce jeu comme un livre dont vous êtes le héros, mais sur des smartphones et avec des amis.

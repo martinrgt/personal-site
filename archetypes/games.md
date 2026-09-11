@@ -2,6 +2,8 @@
 draft: true
 title: '{{ replace .File.ContentBaseName "-" " " | title }}'
 weight: 1
+summary: Genre, Studio, publish date
+description: Genre, Studio, publish date
 #cover:
 #  image: "cover.jpg"
 #  alt: "This is an image"

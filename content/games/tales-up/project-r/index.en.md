@@ -14,7 +14,7 @@ cover:
 {{< line_break >}}
 For this story, I was asked to write some horror. Not spooky, but horror. So I looked up what makes a good frightening monster: hybridation, contagiousness, illness. I built the story around the idea that the players could become part of the monster they investigate, and around the fact that they cannot know when the monster approaches.
 
-The "R" in the title stands for "rhizom", because the creature is a hybrid between a plant and a human, and it's able to aggregate as many new hosts to its own structure. That's where Doctor F. ended up!
+The "R" in the title stands for "rhizom", because the creature is a hybrid between a plant and a human, and it's able to aggregate as many new hosts as possible to its own structure. That's where Doctor F. ended up!
 
 The story begins on a hot air balloon that crashes in the tundra, because I wanted it to be a one-way journey where there were nothing else to lose.
 

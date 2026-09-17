@@ -3,7 +3,7 @@ draft: true
 date: 2022-01-01
 title: 'God of the Peaks'
 weight: 1
-summary: You are on an expedition to the heart of the Alps to try and take a photo of the legendary creature best known as the God of the Peaks. But you are not alone: a hunter is determined to beat you to your mark...
+summary: "You are on an expedition to the heart of the Alps to try and take a photo of the legendary creature best known as the God of the Peaks. But you are not alone: a hunter is determined to beat you to your mark..."
 cover:
     image: "cover-en.png"
     alt: "Cover of the God of the Peaks"

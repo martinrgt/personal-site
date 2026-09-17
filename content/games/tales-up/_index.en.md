@@ -15,12 +15,12 @@ cascade:
     - Tales Up
     - Writing
 ---
-### Chose your own adventure
+### Chose Your Own Adventure
 *Tales Up* is a multiplayer role playing game where the players are invited into various adventures. Think of them as chose your own adventure books, but with smart devices and friends.
 
 {{< youtube ApTra37WhPY >}}
 
-### My work on the project
+### My Work on the Project
 My work on *Tales Up* has covered every aspect of story creation, including:
 
 - Delivering a **narrative strategy** where I presented the world building, the characterization and the general stakes
@@ -30,4 +30,4 @@ My work on *Tales Up* has covered every aspect of story creation, including:
 ### Play Tales Up
 [💻 Steam](https://store.steampowered.com/app/2543210/Tales_Up/) | [📱 iPhone](https://apps.apple.com/fr/app/tales-up-vos-aventures/id1533630240) | [🌐 Browser](https://talesup.io/)
 
-### Stories I worked on
+### Stories I Worked On

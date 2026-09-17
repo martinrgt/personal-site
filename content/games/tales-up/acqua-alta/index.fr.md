@@ -3,6 +3,7 @@ draft: true
 date: 2023-08-01
 title: 'Acqua Alta'
 weight: 1
+summary: Alors que le niveau des mers ne cesse de monter, vous quittez votre campagne natale pour atteindre l'une des dernières cités dans les montagnes à la recherche d'un aéronef pour atteindre les colonies volantes. Mais vous n'êtes pas les seuls à avoir eu cette idée.
 cover:
     image: "cover.jpg"
     alt: "Image de couverture pour Acqua Alta"

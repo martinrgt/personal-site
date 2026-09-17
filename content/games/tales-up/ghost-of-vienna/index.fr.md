@@ -3,6 +3,7 @@ draft: true
 date: 2022-04-01
 title: 'Le Fantôme de Vienne'
 weight: 1
+summary: Votre tante Suzanne a disparu, vous laissant en héritage son manoir au milieu de nulle part. L'occasion parfaite pour partir en exploration et y passer une bonne soirée ! Mais vous découvrez vite que quelqu'un vous attendait...
 cover:
     image: "cover-fr.jpg"
     alt: "Image de couverture du Fantôme de Vienne"

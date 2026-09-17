@@ -3,6 +3,7 @@ draft: true
 date: 2023-08-01
 title: 'Acqua Alta'
 weight: 1
+summary: As the sea level is rising, you venture away of the country side in order to reach one of the few remaining city in the mountain and find an aircraft to reach the airborne colonies. But you're not the only one with this idea.
 cover:
     image: "cover.jpg"
     alt: "Cover of Acqua Alta"

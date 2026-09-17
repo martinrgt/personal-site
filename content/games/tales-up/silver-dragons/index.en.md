@@ -3,6 +3,7 @@ draft: true
 date: 2022-09-01
 title: 'Silver Dragons'
 weight: 1
+summary: In the heart of the legendary Desert of Scales, your group was chosen to search for a mysterious secret laboratory that supposedly holds the truth about the terrible storms that ravaged the world, the "Silver Dragons"...
 cover:
     image: "cover-en.jpg"
     alt: "Cover of Silver Dragons"

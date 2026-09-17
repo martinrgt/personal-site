@@ -3,6 +3,7 @@ draft: true
 date: 2023-04-01
 title: 'Projet R.'
 weight: 1
+summary: Envoyé en montgolfière jusqu'en Colodnie pour espionner un laboratoire secret, votre groupe doit éclairer le mystère de cet endroit et les effrayantes créations du docteur F.
 cover:
     image: "cover-fr.jpg"
     alt: "Image de couverture de Projet R"

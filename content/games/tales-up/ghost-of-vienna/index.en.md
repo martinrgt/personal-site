@@ -3,6 +3,7 @@ draft: true
 date: 2022-04-01
 title: 'The Ghost of Vienna'
 weight: 1
+summary: Your aunt Suzanne has passed away, and you have inherited her mansion in the middle of nowhere. Sounds like a good place to explore and spend an evening! Although you will soon realize that you are not alone...
 cover:
     image: "cover-en.jpg"
     alt: "Cover of the Ghost of Vienna"

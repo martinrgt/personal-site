@@ -3,6 +3,7 @@ draft: true
 date: 2022-09-01
 title: Les Dragons d'argent
 weight: 1
+summary: Au coeur du légendaire Désert d'Écailles, votre groupe a été choisi pour partir à la recherche d'un mystérieur laboratoire qui est censé détenir la vérité sur les terribles tempêtes qui ont dévasté le monde, les "Dragons d'Argent"...
 cover:
     image: "cover-fr.jpg"
     alt: "Image de couverture des Dragons d'Argent"

@@ -3,6 +3,7 @@ draft: true
 date: 2023-01-01
 title: 'To the Moon'
 weight: 1
+summary: Roland once was a brave and mighty knight who fought alongside king Charlmagne. But one day, jealousy drove him mad and sent his mind flying to the Moon! It's up to you to travel there and explore these strangely familiar lands...
 cover:
     image: "cover-en.jpg"
     alt: "Cover of To the Moon"

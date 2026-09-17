@@ -3,6 +3,7 @@ draft: true
 date: 2023-04-01
 title: 'Project R.'
 weight: 1
+summary: Sent by hot air balloon to spy on a secret laboratory in Colodnia, your group must unravel the mystery of the place and the frightening creations of Doctor F.
 cover:
     image: "cover-en.jpg"
     alt: "Cover of the Project R"

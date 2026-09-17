@@ -3,13 +3,14 @@ draft: true
 date: 2022-01-01
 title: 'Le Dieu des cimes'
 weight: 1
+summary: Vous entamez une expédition au cœur des Alpes pour tenter de prendre en photo la créature légendaire connue sous le nom de Dieu des cimes. Mais votre équipe n'est pas seule: un chasseur est déterminé à vous voler la vedette...
 cover:
     image: "cover-fr.png"
     alt: "Image de couverture du Dieu des cimes"
     caption: "Art by ???"
     relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
-> Vous entamez une expédition au cœur des Alpes pour tenter de prendre en photo la créature légendaire connue sous le nom de Dieu des cimes. Mais votre équipe n'est pas seule: un chasseur est déterminé à vous voler la vedette...
+> 
 
 {{< gallery match="carousel-fr/*" sortOrder="asc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}
 {{< line_break >}}

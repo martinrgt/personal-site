@@ -1,5 +1,6 @@
 ---
 draft: true
+date: 2020-01-01
 title: '{{ replace .File.ContentBaseName "-" " " | title }}'
 weight: 1
 summary: Genre, Studio, publish date

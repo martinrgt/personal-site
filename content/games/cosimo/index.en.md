@@ -29,6 +29,6 @@ Like many others, this novel is to me video game material. It sets a simple rule
 
 That's why I decided, during the Scientific Game Jam of 2020, to use it as a base to make a game where I explain how Calvino is a playful author.
 
-🏆 The game won the Poetic Science Award.
+🏆 The game received the Poetic Science Award.
 
 [💻 Play on Itch.io](https://avenyrh.itch.io/cosimo)

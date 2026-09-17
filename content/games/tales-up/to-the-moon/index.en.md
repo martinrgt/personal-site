@@ -1,5 +1,6 @@
 ---
 draft: true
+date: 2023-01-01
 title: 'To the Moon'
 weight: 1
 cover:

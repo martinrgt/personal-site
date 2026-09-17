@@ -1,5 +1,6 @@
 ---
 draft: true
+date: 2019-10-04
 title: 'Lie in my Heart (localisation)'
 weight: 1
 summary: Visual novel expressif, Sébastien Genvo, 2019

@@ -1,5 +1,6 @@
 ---
 draft: true
+date: 2020-01-01
 title: 'Tales Up'
 weight: 1
 summary: Multiplayer interactive fiction, Périple Studio, 2020-2023

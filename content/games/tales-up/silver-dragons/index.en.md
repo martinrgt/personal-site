@@ -1,5 +1,6 @@
 ---
 draft: true
+date: 2022-09-01
 title: 'Silver Dragons'
 weight: 1
 cover:

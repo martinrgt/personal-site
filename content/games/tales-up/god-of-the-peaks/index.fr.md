@@ -1,5 +1,6 @@
 ---
 draft: true
+date: 2022-01-01
 title: 'Le Dieu des cimes'
 weight: 1
 cover:

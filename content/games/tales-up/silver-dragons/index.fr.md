@@ -1,5 +1,6 @@
 ---
 draft: true
+date: 2022-09-01
 title: Les Dragons d'argent
 weight: 1
 cover:

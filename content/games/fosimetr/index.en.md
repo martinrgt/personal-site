@@ -1,7 +1,7 @@
 ---
 draft: true
 date: 2021-06-13
-title: 'How not to write your paper'
+title: 'How Not to Write Your Paper'
 weight: 1
 summary: Interactive fiction, game jam, 2021
 description: Interactive fiction, game jam, 2021

@@ -28,4 +28,4 @@ That's how this short interactive fiction was created. It ironically invites the
 
 It is an interactive story I wrote to learn some advanced techniques for [Ink](https://www.inklestudios.com/ink/).
 
-[💻 Play on Itch.io](https://martinrgt.itch.io/comment-ne-pas-crire-son-article)
+[💻 Play on Itch.io (french only)](https://martinrgt.itch.io/comment-ne-pas-crire-son-article)

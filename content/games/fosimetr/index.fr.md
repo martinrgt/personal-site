@@ -26,4 +26,6 @@ Au même moment, des amis organisaient une "paper jam" qui proposait de subverti
 
 Voilà comment cette courte fiction interactive a été créée. Elle incite ironiquement le joueur à procrastiner de toutes les façons différentes pour éviter d'ouvrir un document texte et faire quelque chose de productif.
 
-C'est une histoire que j'ai écrite sur Ink pour apprendre des techniques avancées.
+C'est une histoire interactive que j'ai écrite pour apprendre des techniques avancées pour [Ink](https://www.inklestudios.com/ink/).
+
+[💻 Jouer sur Itch.io](https://martinrgt.itch.io/comment-ne-pas-crire-son-article)

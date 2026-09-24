@@ -36,3 +36,5 @@ Every action comes with its sound effect and the music is influenced by the play
 In this project, I made some pixel art, especially the landscape and the plant assets. I also made game and level design.
 
 The game was made with the game engine [heaps.io](https://heaps.io/), based on [Haxe](https://haxe.org/) as the programmer, Axel De Conti, was experimenting around this engine back then.
+
+[💻 Play on Itch.io](https://martinrgt.itch.io/greenwitch-grove)

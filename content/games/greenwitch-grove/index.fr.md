@@ -36,3 +36,5 @@ Chaque action est accompagnée d'un effet sonore et la musique est influencée p
 Pour ce projet, j'ai fait du pixel art, notamment le paysage et les assets de la plante et des obstacles. J'ai aussi fait du game design et du level design.
 
 Le jeu a été fait avec le moteur [heaps.io](https://heaps.io/), basé sur [Haxe](https://haxe.org/), comme le programmeur, Axel De Conti, était en train d'expérimenter ce moteur à ce moment-là.
+
+[💻 Jouer sur Itch.io](https://martinrgt.itch.io/greenwitch-grove)

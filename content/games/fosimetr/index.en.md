@@ -26,4 +26,6 @@ At the same time, some friends of mine hosted a paper jam to subvert the rules o
 
 That's how this short interactive fiction was created. It ironically invites the player to procrastinate in every possible way in order to avoid opening a text document and doing something productive.
 
-It is an Ink story I wrote to learn some advanced techniques.
+It is an interactive story I wrote to learn some advanced techniques for [Ink](https://www.inklestudios.com/ink/).
+
+[💻 Play on Itch.io](https://martinrgt.itch.io/comment-ne-pas-crire-son-article)

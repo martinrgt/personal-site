@@ -10,6 +10,10 @@ cover:
   alt: "Couverture steam de Battlestar Galactica: Scattered Hopes"
   caption: "Couverture Steam"
 #  relative: true # To use relative path for cover image, used in hugo Page-bundles
+tags:
+    - Unity
+    - Roguelite
+    - Adaptation
 ---
 > Prenez le commandement d'une flotte qui échappe à l'annihilation des Douze Colonies. Gérez des crises internes tout en vous préparant à votre prochaine rencontre avec la flotte des Cylons. Les temps sont durs, et il faudra faire des choix. Votre seul espoir: retrouver le Battlestar Galactica.
 

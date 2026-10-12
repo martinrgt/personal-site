@@ -10,6 +10,10 @@ cover:
   alt: "Couverture d'Au Srouc sur itch.io"
   caption: "Crédit: [Marie-Bérénice Forsans](https://www.artstation.com/marib)"
 #  relative: true # To use relative path for cover image, used in hugo Page-bundles
+tags:
+    - Unity
+    - Game Jam
+    - Serious Game
 ---
 > Vous jouez le rôle d'un travailleur social au SROUC, où vous aidez les étudiants à régler leurs problèmes financiers. Écoutez ce qu'ils ont à dire et consultez leurs documents. Mais vous n'avez pas beaucoup de temps, donc il va parfois falloir deviner.
 

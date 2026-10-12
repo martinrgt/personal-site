@@ -10,6 +10,10 @@ cover:
   alt: "Cover of Au Srouc on itch.io"
   caption: "Credit: [Marie-Bérénice Forsans](https://www.artstation.com/marib)"
 #  relative: true # To use relative path for cover image, used in hugo Page-bundles
+tags:
+    - Unity
+    - Game Jam
+    - Serious Game
 ---
 > You play as a social worker working at the SROUC, helping students with their budget issues. Listen to what they have to say and search through their files. But you haven't much time, so you'll probably have to take wild guesses.
 

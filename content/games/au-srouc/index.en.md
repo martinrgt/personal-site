@@ -3,8 +3,8 @@ draft: true
 date: 2023-09-03
 title: 'Au Srouc'
 weight: 1
-summary: Puzzle Serious Game, Game Jam, 2023
-description: Puzzle Serious Game, Game Jam, 2023
+summary: Puzzle Serious Game, Social Game Jam, 2023
+description: Puzzle Serious Game, Social Game Jam, 2023
 cover:
   image: "https://img.itch.zone/aW1nLzEzMzEzOTQzLnBuZw==/original/MpWtA%2F.png"
   alt: "Cover of Au Srouc on itch.io"
@@ -25,3 +25,5 @@ We transposed his experience into this serious game. For every student, the play
 {{< line_break >}}
 
 At the end of the meeting, the player must pick a solution to the student's budget issue. But throwing money at issues isn't always the right solution — also because the amount of money is limited. Sometimes, giving food stamps or teaching the student how to manage their budget is enough to help them out of their situation.
+
+[💻 Play on Itch.io (french only)](https://martinrgt.itch.io/au-srouc)

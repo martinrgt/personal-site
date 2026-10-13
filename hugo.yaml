@@ -82,10 +82,14 @@ languages:
           name: Projects
           url: /games/
           weight: 20
+        - identifier: research
+          name: Research
+          url: /pages/research
+          weight: 30
         - identifier: posts
           name: Blog
           url: /posts/
-          weight: 30
+          weight: 40
 
   fr:
     label: Français
@@ -112,10 +116,14 @@ languages:
           name: Projets
           url: /fr/games/
           weight: 20
+        - identifier: research
+          name: Recherche
+          url: /pages/research
+          weight: 30
         - identifier: posts
           name: Blog
           url: /fr/posts/
-          weight: 30
+          weight: 40
 
 module:
   imports:

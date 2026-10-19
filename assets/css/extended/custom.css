@@ -1,16 +1,17 @@
 :root {
-  --theme: #e7eff2;      /* paper background */
-  --entry: #cadde1;
+  --theme: #F6FFFE;      /* paper background */
+  --entry: lch(from var(--theme) calc(l - 5) c h);
   --primary: #0c1b29;
-  --secondary: #343b45;
-  --border: #dddcd7;
+  --secondary: lch(from var(--theme) calc(l - 60) c h);
+  --border: lch(from var(--theme) calc(l - 15) c h);
 }
 
 :root[data-theme="dark"] {
-  --theme: #03162a;
-  --primary: #c8dbdc;
-  --secondary: #659397;
-  --border: #365a76;
+  --theme: #001B44;
+  --entry: lch(from var(--theme) calc(l - 5) c h);
+  --primary: #AAAAAA;
+  --secondary: lch(from var(--theme) calc(l + 60) c h);
+  --border: lch(from var(--theme) calc(l + 15) c h);
 }
 
 .post-title,

@@ -78,8 +78,8 @@ languages:
           name: About
           url: /pages/about
           weight: 10
-        - identifier: projects
-          name: Projects
+        - identifier: games
+          name: Games
           url: /games/
           weight: 20
         - identifier: research
@@ -112,8 +112,8 @@ languages:
           name: À propos
           url: /fr/pages/about
           weight: 10
-        - identifier: projects
-          name: Projets
+        - identifier: games
+          name: Jeux
           url: /fr/games/
           weight: 20
         - identifier: research

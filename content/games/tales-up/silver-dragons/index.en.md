@@ -7,7 +7,7 @@ summary: In the heart of the legendary Desert of Scales, your group was chosen t
 cover:
     image: "cover-en.jpg"
     alt: "Cover of Silver Dragons"
-    caption: "Art by ???"
+    caption: ""
     relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
 > In the heart of the legendary Desert of Scales, your group was chosen to search for a mysterious secret laboratory that supposedly holds the truth about the terrible storms that ravaged the world, the "Silver Dragons"...

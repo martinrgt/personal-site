@@ -8,7 +8,7 @@ description: Roguelite spatial, Alt Shift/Dotemu, 2026
 cover:
   image: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2535950/d29dc74a212e14249b34ebbcdf028bbec5ce7ff0/header.jpg?t=1781183288"
   alt: "Couverture steam de Battlestar Galactica: Scattered Hopes"
-  caption: "Couverture Steam"
+  caption: "Couverture Steam de Battlestar Galactica: Scattered Hopes"
 #  relative: true # To use relative path for cover image, used in hugo Page-bundles
 tags:
     - Unity

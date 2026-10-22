@@ -7,7 +7,7 @@ summary: Sent by hot air balloon to spy on a secret laboratory in Colodnia, your
 cover:
     image: "cover-en.jpg"
     alt: "Cover of the Project R"
-    caption: "Art by ???"
+    caption: ""
     relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
 > Sent by hot air balloon to spy on a secret laboratory in Colodnia, your group must unravel the mystery of the place and the frightening creations of Doctor F.

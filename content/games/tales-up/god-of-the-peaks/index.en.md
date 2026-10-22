@@ -7,7 +7,7 @@ summary: "You are on an expedition to the heart of the Alps to try and take a ph
 cover:
     image: "cover-en.png"
     alt: "Cover of the God of the Peaks"
-    caption: "Art by ???"
+    caption: ""
     relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
 > You are on an expedition to the heart of the Alps to try and take a photo of the legendary creature best known as the God of the Peaks. But you are not alone: a hunter is determined to beat you to your mark...

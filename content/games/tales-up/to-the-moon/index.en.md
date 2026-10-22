@@ -7,7 +7,7 @@ summary: Roland once was a brave and mighty knight who fought alongside king Cha
 cover:
     image: "cover-en.jpg"
     alt: "Cover of To the Moon"
-    caption: "Art by ???"
+    caption: ""
     relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
 > Roland once was a brave and mighty knight who fought alongside king Charlmagne. But one day, jealousy drove him mad and sent his mind flying to the Moon! It's up to you to travel there and explore these strangely familiar lands...

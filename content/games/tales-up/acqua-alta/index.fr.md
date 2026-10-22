@@ -7,7 +7,7 @@ summary: Alors que le niveau des mers ne cesse de monter, vous quittez votre cam
 cover:
     image: "cover.jpg"
     alt: "Image de couverture pour Acqua Alta"
-    caption: "Art by ???"
+    caption: ""
     relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
 > Alors que le niveau des mers ne cesse de monter, vous quittez votre campagne natale pour atteindre l'une des dernières cités dans les montagnes à la recherche d'un aéronef pour atteindre les colonies volantes. Mais vous n'êtes pas les seuls à avoir eu cette idée.

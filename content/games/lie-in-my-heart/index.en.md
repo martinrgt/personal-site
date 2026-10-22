@@ -8,7 +8,7 @@ description: Expressive Visual Novel, Sébastien Genvo, 2019
 cover:
   image: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1116490/header.jpg?t=1649683503"
   alt: "Steam header of the visual novel Lie in my Heart. Subtitle: 'An expressive game'"
-  caption: ""
+  caption: "Steam cover for Lie in my Heart"
 #  relative: true # To use relative path for cover image, used in hugo Page-bundles
 tags:
     - Localization

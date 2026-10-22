@@ -7,7 +7,7 @@ summary: "Vous entamez une expédition au cœur des Alpes pour tenter de prendre
 cover:
     image: "cover-fr.png"
     alt: "Image de couverture du Dieu des cimes"
-    caption: "Art by ???"
+    caption: ""
     relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
 > Vous entamez une expédition au cœur des Alpes pour tenter de prendre en photo la créature légendaire connue sous le nom de Dieu des cimes. Mais votre équipe n'est pas seule: un chasseur est déterminé à vous voler la vedette...

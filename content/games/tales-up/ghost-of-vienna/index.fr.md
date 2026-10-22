@@ -7,7 +7,7 @@ summary: Votre tante Suzanne a disparu, vous laissant en héritage son manoir au
 cover:
     image: "cover-fr.jpg"
     alt: "Image de couverture du Fantôme de Vienne"
-    caption: "Art by ???"
+    caption: ""
     relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
 > Votre tante Suzanne a disparu, vous laissant en héritage son manoir au milieu de nulle part. L'occasion parfaite pour partir en exploration et y passer une bonne soirée ! Mais vous découvrez vite que quelqu'un vous attendait...

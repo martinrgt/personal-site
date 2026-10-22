@@ -7,7 +7,7 @@ summary: As the sea level is rising, you venture away of the country side in ord
 cover:
     image: "cover.jpg"
     alt: "Cover of Acqua Alta"
-    caption: "Art by ???"
+    caption: ""
     relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
 > As the sea level is rising, you venture away of the country side in order to reach one of the few remaining city in the mountain and find an aircraft to reach the airborne colonies. But you're not the only one with this idea.

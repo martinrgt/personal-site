@@ -7,7 +7,7 @@ summary: Your aunt Suzanne has passed away, and you have inherited her mansion i
 cover:
     image: "cover-en.jpg"
     alt: "Cover of the Ghost of Vienna"
-    caption: "Art by ???"
+    caption: ""
     relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
 > Your aunt Suzanne has passed away, and you have inherited her mansion in the middle of nowhere. Sounds like a good place to explore and spend an evening! Although you will soon realize that you are not alone...

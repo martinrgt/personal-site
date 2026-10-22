@@ -7,7 +7,7 @@ summary: Au coeur du légendaire Désert d'Écailles, votre groupe a été chois
 cover:
     image: "cover-fr.jpg"
     alt: "Image de couverture des Dragons d'Argent"
-    caption: "Art by ???"
+    caption: ""
     relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
 > Au coeur du légendaire Désert d'Écailles, votre groupe a été choisi pour partir à la recherche d'un mystérieur laboratoire qui est censé détenir la vérité sur les terribles tempêtes qui ont dévasté le monde, les "Dragons d'Argent"...

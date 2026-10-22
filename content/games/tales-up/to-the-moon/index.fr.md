@@ -7,7 +7,7 @@ summary: Roland était un puissant et courageux chevalier qui combattait aux cô
 cover:
     image: "cover-fr.jpg"
     alt: "Image de couverture du Jusqu'à la Lune"
-    caption: "Art by ???"
+    caption: ""
     relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
 > Roland était un puissant et courageux chevalier qui combattait aux côtés de Charlemagne. Mais un jour, la jalousie l'a rendu fou et son esprit s'est envolé sur la Lune! À vous de vous y rendre pour explorer ces contrées étrangement familières...

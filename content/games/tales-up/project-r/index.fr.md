@@ -7,7 +7,7 @@ summary: Envoyé en montgolfière jusqu'en Colodnie pour espionner un laboratoir
 cover:
     image: "cover-fr.jpg"
     alt: "Image de couverture de Projet R"
-    caption: "Art by ???"
+    caption: ""
     relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
 > Envoyé en montgolfière jusqu'en Colodnie pour espionner un laboratoire secret, votre groupe doit éclairer le mystère de cet endroit et les effrayantes créations du docteur F.

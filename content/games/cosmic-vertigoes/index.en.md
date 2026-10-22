@@ -8,7 +8,7 @@ description: Bitsy game, Game Jam, 2020.
 cover:
   image: "cover.gif"
   alt: "Title screen of Cosmic Vertigoes"
-  caption: "Credit: Leslie Astier"
+  caption: "Credit: [Leslie Astier](https://leslieastier.xyz/)"
   relative: true # To use relative path for cover image, used in hugo Page-bundles
 tags:
     - Bitsy

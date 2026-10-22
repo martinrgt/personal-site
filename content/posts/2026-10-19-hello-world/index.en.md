@@ -8,6 +8,10 @@ cover:
   alt: "Screenshot from The Legend of Zelda: Beath of the Wild"
   caption: "Image credit: Nintendo and whoever took it during the game."
   relative: true # To use relative path for cover image, used in hugo Page-bundles
+tags:
+  - Website
+  - Learning Things
+  - LLM
 ---
 Welcome to this website.
 

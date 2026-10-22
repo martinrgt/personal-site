@@ -8,6 +8,10 @@ cover:
   alt: "Capture d'écran tirée de The Legend of Zelda: Beath of the Wild"
   caption: "Crédit d'image: Nintendo et la personne qui a pris ce screen."
   relative: true # To use relative path for cover image, used in hugo Page-bundles
+tags:
+  - Site
+  - Apprendre des choses
+  - LLM
 ---
 Bienvenue sur ce site.
 

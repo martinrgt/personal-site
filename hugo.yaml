@@ -72,7 +72,7 @@ languages:
           - name: Posts
             url: "/posts/"
           - name: Archive
-            url: "/archive"
+            url: "/en/archives/"
 
     menu:
       main:
@@ -107,7 +107,7 @@ languages:
           - name: Messages
             url: "/fr/posts/"
           - name: Archives
-            url: "/archive"
+            url: "/fr/archives/"
 
     menu:
       main:

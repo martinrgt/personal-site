@@ -2,6 +2,8 @@
 date: '{{ .Date }}'
 draft: true
 title: '{{ replace .File.ContentBaseName "-" " " | title }}'
+summary: # Pour la vignette sur le site
+description: # Pour le SEO
 weight: 3
 #cover:
 #  image: "cover.jpg"

@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 date: 2021-10-14
 title: 'Dopoguerra'
 weight: 1

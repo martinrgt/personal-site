@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 date: 2026-05-11
 title: 'Battlestar Galactica: Scattered Hopes'
 weight: 1

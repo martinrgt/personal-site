@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 date: 2020-10-18
 title: 'Cosimo'
 weight: 1

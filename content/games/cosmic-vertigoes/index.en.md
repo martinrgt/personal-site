@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 date: 2020-09-21
 title: 'Cosmic Vertigoes'
 weight: 1

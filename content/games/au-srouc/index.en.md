@@ -1,5 +1,4 @@
 ---
-draft: true
 date: 2023-09-03
 title: 'Au Srouc'
 weight: 1

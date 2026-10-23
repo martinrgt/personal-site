@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: 'Games'
 weight: 2
 #cover:

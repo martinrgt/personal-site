@@ -1,6 +1,6 @@
 ---
 date: '2026-08-21T18:28:12+02:00'
-draft: true
+draft: false
 title: 'About'
 hidemeta: false
 cover:

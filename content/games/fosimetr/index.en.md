@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 date: 2021-06-13
 title: 'How Not to Write Your Paper'
 weight: 1

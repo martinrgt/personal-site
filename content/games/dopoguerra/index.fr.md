@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 date: 2020-01-01
 title: 'Dopoguerra'
 weight: 1

@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 date: 2021-06-13
 title: 'Comment ne pas écrire son article'
 weight: 1

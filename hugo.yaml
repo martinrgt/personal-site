@@ -3,6 +3,7 @@ locale: en-us
 title: Martin Ringot
 theme: ["PaperMod"]
 enableGitInfo: true
+enableRobotsTXT: true
 
 frontmatter:
   date: 

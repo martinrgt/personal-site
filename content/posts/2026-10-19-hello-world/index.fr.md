@@ -3,6 +3,8 @@ date: '2026-10-19T15:32:03+02:00'
 draft: true
 title: '"Hello World"'
 weight: 3
+summary: "Où j'explique brièvement pouquoi j'ai fait ce site et ce que j'ai l'intention d'en faire." # Pour la vignette sur le site
+description: "Où j'explique brièvement pouquoi j'ai fait ce site et ce que j'ai l'intention d'en faire."
 cover:
   image: "cover.jpg"
   alt: "Capture d'écran tirée de The Legend of Zelda: Beath of the Wild"

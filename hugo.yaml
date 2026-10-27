@@ -78,7 +78,7 @@ languages:
             url: "/posts/"
           - name: Archive
             url: "/en/archives/"
-          - name: Chercher
+          - name: Search
             url: "/search/"
 
     menu:
@@ -115,14 +115,14 @@ languages:
             url: "/fr/posts/"
           - name: Archives
             url: "/fr/archives/"
-          - name: Search
+          - name: Chercher
             url: "/fr/search/"
 
     menu:
       main:
         - identifier: about
           name: À propos
-          url: /fr/pages/about
+          url: /pages/about
           weight: 10
         - identifier: games
           name: Jeux
@@ -134,7 +134,7 @@ languages:
           weight: 30
         - identifier: posts
           name: Blog
-          url: /fr/posts/
+          url: /posts/
           weight: 40
 
 module:

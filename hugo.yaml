@@ -5,6 +5,10 @@ theme: ["PaperMod"]
 enableGitInfo: true
 enableRobotsTXT: true
 
+caches:
+  images:
+    dir: :cacheDir/images
+
 frontmatter:
   date: 
   - myDate

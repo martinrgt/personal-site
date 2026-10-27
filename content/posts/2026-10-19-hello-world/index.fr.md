@@ -1,6 +1,6 @@
 ---
 date: '2026-10-19T15:32:03+02:00'
-draft: true
+draft: false
 title: '"Hello World"'
 weight: 3
 summary: "Où j'explique brièvement pouquoi j'ai fait ce site et ce que j'ai l'intention d'en faire." # Pour la vignette sur le site

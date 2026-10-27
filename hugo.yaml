@@ -73,13 +73,13 @@ languages:
         imageTitle: "Not my real face" # optional
         buttons:
           - name: About
-            url: "/pages/about"
+            url: /pages/about
           - name: Posts
-            url: "/posts/"
+            url: /posts/
           - name: Archive
-            url: "/en/archives/"
+            url: /en/archives/
           - name: Search
-            url: "/search/"
+            url: /search/
 
     menu:
       main:

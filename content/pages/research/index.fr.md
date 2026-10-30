@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: 'Recherche'
 bibFile: path/to/bib.json # path relative to project root
 weight: 2

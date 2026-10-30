@@ -85,19 +85,19 @@ languages:
       main:
         - identifier: about
           name: About
-          url: /pages/about
+          url: pages/about
           weight: 10
         - identifier: games
           name: Games
-          url: /games/
+          url: games/
           weight: 20
         - identifier: research
           name: Research
-          url: /pages/research
+          url: pages/research
           weight: 30
         - identifier: posts
           name: Blog
-          url: /posts/
+          url: posts/
           weight: 40
 
   fr:
@@ -110,31 +110,31 @@ languages:
         imageTitle: "Pas mon vrai visage" # optional
         buttons:
           - name: "À propos"
-            url: "/fr/pages/about"
+            url: "pages/about"
           - name: Messages
-            url: "/fr/posts/"
+            url: "posts/"
           - name: Archives
-            url: "/fr/archives/"
+            url: "archives/"
           - name: Chercher
-            url: "/fr/search/"
+            url: "search/"
 
     menu:
       main:
         - identifier: about
           name: À propos
-          url: /pages/about
+          url: pages/about
           weight: 10
         - identifier: games
           name: Jeux
-          url: /games/
+          url: games/
           weight: 20
         - identifier: research
           name: Recherche
-          url: /pages/research
+          url: pages/research
           weight: 30
         - identifier: posts
           name: Blog
-          url: /posts/
+          url: posts/
           weight: 40
 
 module:

@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: 'Research'
 weight: 2
 cover:

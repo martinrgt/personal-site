@@ -77,7 +77,7 @@ languages:
           - name: Posts
             url: posts/
           - name: Archive
-            url: en/archives/
+            url: archives/
           - name: Search
             url: search/
 

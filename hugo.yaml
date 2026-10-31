@@ -67,7 +67,7 @@ languages:
     label: English
     weight: 1
     params:
-      description: "Martin Ringot's personal space to yap about narrative, games, research and learning things."
+      description: "Martin Ringot's personal space to yap about narrative, games, research, and learning things."
       profileMode:
         subtitle: "🎮 Your favorite narrative designer {{< line_break >}} 🎓 PhD Italo Calvino × video games {{< line_break >}} ❤️ Folk enthusiast, rock climber, nap lover"
         imageTitle: "Not my real face" # optional
